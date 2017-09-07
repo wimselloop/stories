@@ -1,6 +1,6 @@
 ## The Wimsel Loop Stories
 
-This is a set of interconnected stories I've chosen to develop using GitHub. 
+This is a set of interconnected stories being developed toward manuscript form, using GitHub. 
 
 Look in the draft/ folder (https://github.com/wimselloop/stories/tree/master/draft) to view the current chapters currently in draft (Open Document Format).
 
@@ -9,7 +9,7 @@ The Wimsel Loop "lives" on Facebook, here: https://www.facebook.com/thewimselloo
 
 ## The Wimsel Loop on GitHub
 
-I searched around for a while, looking at different platforms to write stories "in the open" (i.e. where readers, if they chose, could follow my process from draft to completed manuscript), and being a software developer, finally decided to just drop open source documents into a public repo, and see what happened.
+I searched around for a while, looking at different platforms to write stories "in the open" (i.e. where readers, if they chose, could follow the process from draft to completed manuscript), and being a software developer, finally decided to just drop open source documents into a public repo, and see what happened.
 
 ## The Rights of Reader and Writer
 

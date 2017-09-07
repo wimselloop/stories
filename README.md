@@ -2,6 +2,8 @@
 
 This is a set of interconnected stories I've chosen to develop using GitHub. 
 
+Look in the draft/ folder (https://github.com/wimselloop/stories/tree/master/draft) to view the current chapters currently in draft (Open Document Format).
+
 ## The Wimsel Loop Facebook Page
 The Wimsel Loop "lives" on Facebook, here: https://www.facebook.com/thewimselloop/
 

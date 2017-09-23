@@ -16,6 +16,9 @@ I searched around for a while, looking at different platforms to write stories "
 
 The draft chapters / scenes are numbered in the order I decided to release them in, which is roughly the order they were written in, though not in all cases. This might not be the order they are finally arranged in, so feel free to read them in whatever order you feel like.
 
+## Who am I, anyway?
+I'm this guy : https://www.facebook.com/mikem1970/
+
 ## The Rights of Reader and Writer
 
 You are welcome to download, print, and share the work committed to this repo, provided you do not modify the content or copyright notice, and do not produce the work for commercial purposes without permission.

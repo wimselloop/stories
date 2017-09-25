@@ -6,7 +6,11 @@ Look in the draft/ folder (https://github.com/wimselloop/stories/tree/master/dra
 
 ## The Wimsel Loop Facebook Page
 
-The Wimsel Loop "lives" on Facebook, here: https://www.facebook.com/thewimselloop/
+The Wimsel Loop "lives" on Facebook, here: https://www.facebook.com/thewimselloop/
+
+## The Wimsel Loop Patreon Page
+If you like the stories and would like to support my writing, here you go:
+https://www.patreon.com/mikemcgraw/
 
 ## The Wimsel Loop on GitHub
 

@@ -14,7 +14,7 @@ https://www.patreon.com/mikemcgraw/
 
 ## The Wimsel Loop on GitHub
 
-I searched around for a while, looking at different platforms to write stories "in the open" (i.e. where readers, if they chose, could follow the process from draft to completed manuscript), and being a software developer, finally decided to just drop open source documents into a public repo, and see what happened.
+I searched around for a while, looking at different platforms to write stories "in the open" (i.e. where readers, if they chose, could follow the process from draft to completed manuscript), and being a software developer, finally decided to just drop documents into a public repo, and see what happened.
 
 ## What order should you read these in?
 

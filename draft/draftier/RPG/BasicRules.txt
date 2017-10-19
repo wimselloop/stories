@@ -1,0 +1,24 @@
+> Hello, there!
+
+This is meant to be a Role-Playing Game. Look 'Role-Playing Game' up on the Internets if you feel you should, and then come back here to continue ;-)
+
+> A note about the syntax you will find in this document:
+I'm using some custom markup language that might in places remind you of computer code. Don't worry, I believe you will get used to it and might it interesting! If you find possible syntax errors, feel free to email me at: mike.mcgraw@gmail.com
+
+Ok, now that you and I are likely in agreement about what this book should be for you and your friends, let's move on to Character Creation, the very first of the most-very-fun parts of an RPG:
+
+
+> Character Creation...
+
+>> Species:
+
+>>.Guardian Squirrel 
+[H.C:/03/GiantFlyingSquirrel/C.K@"Guardfolk, Spiritkin, Nature Spirit"//||"Nature, Loyalty, Free Spirit"]
+
+>>.DemiGiant
+[H.C:/03/Human/C.K.@"Commonfolk, Newlykin, Fire Elemental"//||"Life, Wealth, Courage"]
+
+>>.Cave Mouse
+[H.C:/GiantMouse/C.K.@"Mousefolk, Rustlekin, 
+
+

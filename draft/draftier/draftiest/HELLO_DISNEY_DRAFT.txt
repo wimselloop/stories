@@ -1,10 +1,20 @@
 Hello, Disney!
 
-If you have managed to find your way here, you either have very decent web-crawling algorithms, or else I've somehow managed to lure you here by sheer hopeful optimism, which is my favourite redundancy. Either way, I'm very happy you dropped by!
+If you have managed to find your way into this document, you either have employed very decent web-crawling algorithms, or else I've somehow magically drawn you here with sheer, hopeful optimism (the best kind of redundancy?), and possibly a few well-directed words. Whatever the vector, I'm very happy you dropped by!
 
-This is an experiment with open-sourcing my portfolio-in-the-constant-making, using the GitHub web service, and then sitting back and hoping you'll find it, eventually.
+This is an experiment with open-sourcing my portfolio-in-the-constant-making, using the GitHub web service, and then sitting back and hoping Disney Animation or some other studio with whom I wish to someday work will find it, and then also find it interesting. 
 
-An open-source portfolio has a third axis of useful information, which is its modification history, which can be read like a stream, with a time signature. In the near future (if it's not already happening), studios as well as instructors may wish to observe portfolios-in-the-making, to assess things like the candidate's time management skills and personal process, and do so with standard, well-supported, open-sourced software tools.
+An open-source portfolio has a third axis of handy information for the portfolio-review enthusiast, which is its modification history. This can of course be read like an event stream, with proper time signatures. It could even be visualized in (possibily) interesting ways, though I'm short on days in the week and so won't be doing that myself, at least not anytime soon. Perhaps somebody else will, someday.
+
+In the near future, if it's not already happening now, studios as well as art instructors may wish to observe portfolios-in-the-making, to assess things like the candidate's time-management skills, attention to detail, personal creative process, and many other things. Using open-source control facilitates that sort of perusal, making the portfolio's lifecycle accessible to well-known, well-supported, and freely available software tools.
+
+This portfolio is not in any kind of state of completion. It's being created at its own pace, in the moments in-between all those others of mine which are already spoken for. I aspire to tell good stories in collaboration with good artists, educators, and scientists, and so am inviting you to drop by any time you feel bored, curious, both, or neither of those things, to see what, if anything, I am in the midst of creating.
+
+Thank you for reaching the bottom of this short note - Achievement Unlocked!
+
+Mike McGraw,
+Timberlea, Nova Scotia
+
 
   
 

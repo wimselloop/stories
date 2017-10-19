@@ -1,0 +1,12 @@
+Hello, Disney!
+
+If you have managed to find your way here, you either have very decent web-crawling algorithms, or else I've somehow managed to lure you here by sheer hopeful optimism, which is my favourite redundancy. Either way, I'm very happy you dropped by!
+
+This is an experiment with open-sourcing my portfolio-in-the-constant-making, using the GitHub web service, and then sitting back and hoping you'll find it, eventually.
+
+An open-source portfolio has a third axis of useful information, which is its modification history, which can be read like a stream, with a time signature. In the near future (if it's not already happening), studios as well as instructors may wish to observe portfolios-in-the-making, to assess things like the candidate's time management skills and personal process, and do so with standard, well-supported, open-sourced software tools.
+
+  
+
+
+

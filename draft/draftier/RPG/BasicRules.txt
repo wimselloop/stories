@@ -1,9 +1,9 @@
-> Hello, there!
+> Hello, there...
 
 This is meant to be a Role-Playing Game. Look 'Role-Playing Game' up on the Internets if you feel you should, and then come back here to continue ;-)
 
-> A note about the syntax you will find in this document:
-I'm using some custom markup language that might in places remind you of computer code. Don't worry, I believe you will get used to it and might it interesting! If you find possible syntax errors, feel free to email me at: mike.mcgraw@gmail.com
+//A note about the syntax you will find in this document:
+I'm using some custom markup language that might in places remind you of computer code. Don't worry, I believe you will get used to it and might even find it interesting! If you find what you feel might be syntax errors, feel free to email me at: mike.mcgraw@gmail.com//
 
 Ok, now that you and I are likely in agreement about what this book should be for you and your friends, let's move on to Character Creation, the very first of the most-very-fun parts of an RPG:
 
@@ -13,12 +13,12 @@ Ok, now that you and I are likely in agreement about what this book should be fo
 >> Species:
 
 >>.Guardian Squirrel 
-[H.C:/03/GiantFlyingSquirrel/C.K@"Guardfolk, Spiritkin, Nature Spirit"//||"Nature, Loyalty, Free Spirit"]
+[H.C:/03/GiantFlyingSquirrel/C.K@"Guardfolk, Spiritkin, Nature Spirit"//||"Trees and Sky, Loyalty, Freedom"]
 
 >>.DemiGiant
-[H.C:/03/Human/C.K.@"Commonfolk, Newlykin, Fire Elemental"//||"Life, Wealth, Courage"]
+[H.C:/03/Human/C.K.@"Commonfolk, Newlykin, Iron Elemental"//||"Life, Prosperity, Home"
 
 >>.Cave Mouse
-[H.C:/GiantMouse/C.K.@"Mousefolk, Rustlekin, 
+[H.C:/GiantMouse/C.K.@"Mousefolk, Rustlekin, Ground Warrior"//||"Earth, Family, ]
 
 

@@ -18,7 +18,7 @@ I searched around for a while, looking at different platforms to write stories "
 
 ## What order should you read these in?
 
-The draft chapters / scenes are numbered in the order I decided to release them in, which is roughly the order they were written in, though not in all cases. This might not be the order they are finally arranged in, so feel free to read them in whatever order you feel like.
+The draft chapters / scenes WERE once numbered in the order I decided to release them in, which is roughly the order they were written in, though not in all cases. Since this might or might not have been the order they are finally arranged in, I eventually removed the chapter numbers, and will figure out what order to tell them in later, perhaps when I've found an editor, for reals. Feel free to read them in whatever order you feel like.
 
 ## Who am I, anyway?
 I'm this guy : https://www.facebook.com/mikem1970/

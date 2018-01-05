@@ -1,0 +1,14 @@
+Worker's Conmpensation Form F1b.
+
+WorkerName:
+WorkerNumber:
+WorkerPassword: CLASSIFIED
+WorkerZone:
+WorkerTimestamp:
+WorkerStatus:
+
+
+WorkerStatment [114]:
+"Come work for DesignYouOwnWorkplace", they said.
+"The work environment waiting for Workers at DesignYourOwnWorkplace really works for everyone", they went on to say.
+

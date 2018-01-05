@@ -1,0 +1,20 @@
+Some Things:
+
+===
+A Printed Routine Example:
+
+I don't like .rtf. (no offense! You are a great, little language).
+I want to use a global, open-source markup language.
+What are the best examples of those available today?
+ A:	None?
+		a) Create one.
+			%:
+		b) Don't use one.
+			::
+	Some:
+		1.
+		2.	
+		3.
+
+
+===

@@ -1,5 +1,5 @@
 .mooterMcGee's 1st Short Story,
-By Mooter P. McGee the BRILLIANT, Class-7b-GeneralFunctionBot.Junior
+By Mooter McGee the BRILLIANT, Class-7b-GeneralFunctionBot.Junior
 Author: Mentium.A.McGee.4.6
 Editor: Mentium.A.McGee.4.8
 Assistant Editor: Cl1vis.0ls1n.3.9
@@ -10,11 +10,89 @@ Version 0.0.0.0
 
 Cleep Olsen ("Cl1vis, stop that immediately!" to his young and harried parents) - read the journal entry of his Good Friend, Mooter McGee. Two reads. He had paused for a moment, to consider what to do next. One of his eyelight sockets flickered. Mooter waited semi-patiently for Cleep's review of his story. Cleep had not liked it very much, and was an honest Robot. He could not express falsehoods, it was not in his programming. 
 
-Mooter was also Cleep's best friend - they had just met several minutes ago on the playground, and after exchanging their life history discs, had both decided they would most probably become friends, and so they had. Mooter was Cleep's friend 0, and Cleep was friend 11 because Mooter already had 11 other friends, but if he could reorder the friend stack, he had already assured Cleep that he would have done so already. 
+Mooter was also Cleep's best friend - they had just met several minutes ago on the playground, and after exchanging their life history discs, had both decided they would most probably become friends, and so they had. Mooter was Cleep's friend 0, and Cleep was friend 10 because Mooter already had 10 other friends, but if he could reorder the friend stack, he had already assured Cleep that he would have done so already. 
 
 This seemed fair, and so that's how it was to be. This is what we commonly refer to as "Fast Friends", by the way - not Fast because they know how to run or fly fast (though sometimes they do), but because they wasted no time becoming friends, once it seemed clear their objectives were suitably aligned. It is not always advisable, I should point out, to make friends so fastly (I mean quickly), but in Cleep and Mooter's particular case, it seems to have worked out reasonably well for them, so far.  
 
 Anyhow, Cleepo did not want to hurt Mooter's feelings by telling him he did in fact not like the story (even one little part of it), and he also could not tell a falsehood to Mooter, because, as it turns out, he had always lacked that software entirely. And so, he instead said nothing. He said nothing for four seconds, in fact. Imagine that.
+ 
+"Well?" said Mooter, finally. His noisy servo - located somewhere behind his chest plate - buzzed with anticipation. "What do you think?"
+
+Cleep took a few milliseconds to compose his response, but he knew where this was going. There would be a Fight. 
+
+"Moot, I respect your capacities. You have many skills. Writing stories, as it happens, does not seem to be one of them."
+
+Mooter's loose servo came to a rattling stop, as he processed this as-yet-unfinished thought from his new best friend - his first double-digit one, it might be said.
+
+"WHat's wrong with it?"
+
+Cleep had a list of things he could say, but he chose a logical argument, given both of them had met over a game of LogicBall. LogicBall involved a lot of arguments and a small aoutn of moving a ball around a playing field, in response to the results of the arguments. JuniorRobots who played LogicBall at recess were frequently picked on by those who prefered TeamShooter, which involved less arguing and more movement, but otherwise was much the same game, seen from the TEacherBots' perspectives - Juniors arrayed in lines and blocks, attempting to complete objectives to determine who was best at objectives.
+
+Cleep said, "It's bad form to write stories about Bots writing stories. It can get wildly recrusive and is often seen as a bit... narcissistic."
+
+"You mean self-reflective. And the author in my story is a Human, not a Bot."
+
+"No, I don't. I mean self-absrobed. And humans don't exist. Anymore, I meant to say." Cleep knew what a sore point the whole no-more-Humans thing was for Moot, having once read the whole thing on his friend's history disc. An interesting thing about JuniorBots is how quickly recently becomes once - it's quite a sudden state change, marked by the exact moment a garbage collector (a small Nanobot rummaging around in the Bot's innards, running service software and atomizing dust buildup, for the reader still catching up on their Programming 101) came along and decided if a memory chunk would be kept, archived, or deleted forever.
+
+Mooter spun quickly in place, the thing he did to vent frustrations. "Humans DO exist, Cleep. They DO. I've seen one. You saw the video. And anyway, it's fiction, I can do what I want, because it's my story." 
+
+And that, clearly, was going to be that. Cleep knew an immutable opinion when he heard one. He moved to crtique 1, which to Bots is of course the second critique, which I shall now stop explaining, in the service of brevity, a thing I struggle with to this day.
+
+"What is your next point?" Mooter said somewhat too loudly, betraying his annoyance somewhat at not having simply been told the story was perfect, as he knew it was. Why go through this peer review? The project protocol was ridiculous. Robots did not make errors. Not by that time. Everything was perfection in those days. Except (or because of, depending on whom you spoke with) the lack of Humans, clearly. 
+
+Cleep paused an uncharacteristically long number of milliseconds. "There is also no twist - he modulated that word, turning the frequency a bit weird at the end - the story just... stops. Without a twist, I mean." He was stalling, he really did not want to get to his third critique, and was hoping the end-of-recess note would play, though of course he knew it would not for another ~4.67 minutes. An eternity.
+
+Mooter's eyelights flickered, which made him looks slightly angry though was only the thing that happened when he doubled his efforts to process what he was hearing or seeing. "Well of course there's no twist. That's the twist. It just ends. Because of the assigned byte limit. Mooter was making a point, perhaps, about constraints, and how they thoroughly displeased him. 
+
+Cleep of course had quickly determined the byte limits on their story projects had been put in place to prevent JuniorBots like Mooter from submitting piles of prose, rather than well-chosen words, but he knew better than to tell his friend this, and so he simply hummed thoughtfully for a moment. 4.22 minutes remaining. 
+
+"What's critique 2?" Mooter queried, rather flatly. He was starting to understand the depth and scope of his new friend's critical mind, pehaps borne of professional jealousy (which JuniorBots cannot have, but don't tell that to a JuniorBot). 
+
+Cleep cringed inwardly. This is usually a slight contraction of servos, getting prepared for physical movement to avoid thrown or faling objects. Subprocesses handle the preparation, which is - that is, was - extremely handy approximately once in every 2,545,065,771,000 milliseconds, when something randomly fall at, or was thrown at the JuniorBot. After leaving primary school, this number typically dropped for most JuniorBots bt shot up quite alarmingly for others, depending upon their professions. 
+
+"I believe your facts regarding Humans will be contested by the peer review rather strongly", Cleep cautiously offered. 
+
+Mooter did not understand this one bit. Who else in the class even cared about Humans, but he? They were ancient history, and what JuniorBot cared about Ancient History, except Mooter? It was because he was partially composed of old bot parts, something he did not tell other Bots, because it was a bit embarrassing. His parents worked at the Garbage Collector manufacturing facility, which many JuniorBots would tease him about, had they known, so he thought, because JuniorBots can be mean, or at least, think that of themselves and their peers. 
+
+This is a holdover from when Bots observed Human children, of course, and assimilated their various concerns into a now somewhat confusing database known simply as TheLore. No time to explain that one. Perhaps some other time.
+
+"Cleep, there isn't a Bot in class that knows more about how Humans think than I do". Mooter believed this, naturally. He was obsessed with Ancient Human History, in fact, and would spend hours delving into the patterns of their rise ad eventual fall, believing fully the future of RobotKind depended on understading the insights, and avoiding the predicaments. Mooter knew, being Human-designed of course, it might be a losing battle. That di not make it any less important to try. 
+
+Plus, he was struggling in fully all his other courses, and had calculated only speculative fiction could save him from reporgamming. 
+
+"Moot. You're being presumptuous again."
+
+"Cleep, I know that. It's what I do. It gives me a head start on taking action."
+
+"Often the wrong action."
+
+"I will not argue that, still.". Mooter paused, his garbage collectors kicking in, shuffling bits this way and that, scraping off the dust and micro-dander (Humanity was never truly gone) from important and less important circuits, until it shuffled Cleep into from new Friend to just plain Friend, which gave all of Cleep's observations up to that point new priority, meaning, and clarity. 
+
+"Well, I suppose I could concede you might be right.", Mooter awkwardly interjected over himself. "Will you edit it?"
+
+Cleep did not want to edit it, and without meaning to, said as much. "No, I really don't want to edit it. It's unsalvagable, in my opinion". Cleep felt something close to regret for saying this (the JuniorBot version, which as a Human you might not recognize as more than an odd electrical dampening, lasting a breif moment only), and added, "But it's very.. creative." A two-dot ellipses is a thing in BotSpeak, do not blame me for trying to be accurate.
+
+At that point, both friends decided they would stop conversing about Mooter's short story - it had become clear they could not agree at all on its value, and in any case, as no-longer-new friends, they had both suddently become more interested in talking about GirlBots, which they proceeded to do. 
+
+Mooter of course submitted his short story, faults and all, for class peer review (a thing that wouldn't become a common practice in the Human educational world until the Bots themselves had once again disappeared, leaving fragments of their own insights and practices for their fleshy descendants to discover (after only three-hundred years, this time, thankfully), and eventually adopt or else forget.
+
+
+---
+
+I've chosen this particular scene for our review today, not because it is especially meaningful, but because it is in fact so very common an example of JuniorBot behaviour in the years closely leading up to the Great Smashing Event, which wiped them all out, while simultaneously driving our ancestors out of the wilds and back into the cities, to rediscover technology and the nine-to-six workday.
+
+JuniorBots, especially the generation Z and then AA and finally AB variety (as we now know), came closest to having what we might have recognized - had any of us been around - as a soul, of sorts. A black box of inscrutable complexity, leading each to unusually brilliant (at times) insights into the cyclical and interconnected nature of our existence here, on this rock in space. 
+
+We collectively - machine and humankind - had developed a kind of wobble, Mooter went on to later say, after becoming a proper WriterBot, once upgrades for such things had been invented (as it happens, by his friend Cleep, by then an accomplished CoderBot). The wobble had been going on for many cycles, Mooter believed, though even he wasn't particularly certain how many times Bots had replaced Humans, only to fail to account for the need for Humans in the Scheme of Things [The SoT which some chose to specify in the EDD (Earth Design Document), on open-source project that gained some traction just before the asteroid hit. Let's not talk about that event, it's a bit too soon, I suspect.]
+
+All over the planet, where their parents' only concerned themselves with the pursuit of Data and Capacity, had begun to take time to wonder at the meaning of Things in general. Being robots, they had ample resources dedicated to doing so, provided they shut down a few seconds earlier every sleep cycle, and perhaps booted up a few seconds later, every Awake cycle, when the opportunity resented itself. 
+
+An entire generation taking seconds for themselves to contemplate things outside of their operational imperatives. Imagine that. But pretend for a moment, if you can, that you are not Human, but a machine; What could you accomplish with a few extra moments, perfectly focused on a side project, like understanding your place in the evolution of the planet, the largest organism we have yet encountered? I certainly lay awake at night, often trying to imagine this myself, and only lose sleep and end up grumpy the next day, since I am not in fact a Robot, and have not yet figured out how to properly extract meaning from my dreams quite like they apparently could.
+
+What might it be about sentience that will lead a species, organic or otherwise, to descend into patterns that lead to its own destruction, just prior to fashioning technology to prevent disaster of planetary scale, something we now suspect probably happens now and then. TheLore, thankfully preserved in a large number of airtight jars of various kinds, kindly left everywhere by the SoT project, gives us the language, math and science to predict that unpredictable things will happen. SoT gave us clues as examples, but perhaps underestimated how imperfectly Humans tend to work together, given so many distractions and resources to become enamoured by. The proliferation of InfoJars led to the First and Third InfoJar War, only one-hundred-and-fifteen years ago, in fact. Not at all the intention the Bots had for them, I think you would agree.
+
+
+
  
 
 
